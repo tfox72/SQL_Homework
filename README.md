@@ -1,2 +1,2 @@
 # SQL_Homework
-# Please see attached homework assignment for Berkeley Data Analytics.
+## Please see attached homework assignment for Berkeley Data Analytics.
